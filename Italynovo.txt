@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1,IT: 20 Mediaset HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14713
+#EXTINF:-1,IT: Canale 5
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14601
+#EXTINF:-1,IT: Cartoonito
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14851
+#EXTINF:-1,IT: Discovery Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43909
+#EXTINF:-1,IT: Dmax
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14826
+#EXTINF:-1,IT: Giallo
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14722
+#EXTINF:-1,IT: La 5
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14715
+#EXTINF:-1,IT: Mediaset Extra
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14711
+#EXTINF:-1,IT: Mediaset Italia 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14602
+#EXTINF:-1,IT: Mediaset Italia 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14712
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/37663
+#EXTINF:-1,IT: Rai 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14597
+#EXTINF:-1,IT: Rai 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14598
+#EXTINF:-1,IT: Rai 3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14599
+#EXTINF:-1,IT: Rai 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14716
+#EXTINF:-1,IT: Rai 5
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14717
+#EXTINF:-1,IT: Rai Gulp
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14857
+#EXTINF:-1,IT: Rai Movie
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14719
+#EXTINF:-1,IT: Rai News 24
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14861
+#EXTINF:-1,IT: Rai Premium
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43914
+#EXTINF:-1,IT: Rai Scuola
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14720
+#EXTINF:-1,IT: Rai Storia
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14837
+#EXTINF:-1,IT: Rai Yoyo
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14856
+#EXTINF:-1,IT: Rete 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14600
+#EXTINF:-1,IT: Primafila 10 4K
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43921
+#EXTINF:-1,IT: TG La 7
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14603
+#EXTINF:-1,IT: Tgcom 24
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14858
+#EXTINF:-1,IT: Top Crime
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/14707
+
